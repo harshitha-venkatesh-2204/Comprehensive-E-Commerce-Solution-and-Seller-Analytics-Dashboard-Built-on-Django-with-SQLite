@@ -1,8 +1,8 @@
-# Emporium: E-Commerce Platform for Handbags 👜
+# Comprehensive E-Commerce Solution and Seller Analytics Dashboard Built on Django with SQLite 👜
 
 ## Project Overview 📊
 
-Emporium offers an intuitive navigation experience, allowing customers to browse products, add items to their cart, and conveniently place orders. The system encourages user engagement by providing avenues for contacting the offline store, ensuring a comprehensive and customer-centric online shopping experience.
+The Application offers an intuitive navigation experience, allowing customers to browse products, add items to their cart, and conveniently place orders. The system encourages user engagement by providing avenues for contacting the offline store, ensuring a comprehensive and customer-centric online shopping experience.
 
 ## Table of Contents 📚
 
